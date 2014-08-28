@@ -1,5 +1,9 @@
 {
   "name": "sass-starter",
+  "repository" : {
+     "type" : "git",
+     "url" : "https://github.com/joe-watkins/hook-test"
+   },
   "version": "0.0.0",
   "description": "simple sass starter",
   "main": "index.js",
