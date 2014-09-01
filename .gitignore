@@ -5,3 +5,4 @@
 .DS_Store?
 *.orig
 check-npm-bower.sh
+npm-debug.log
